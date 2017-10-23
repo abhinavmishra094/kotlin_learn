@@ -14,6 +14,7 @@ class MultiOperations1 : Operations1 {
 
     }
     override fun sum(n1: Int, n2: Int): Int {
+        super.sum(n1, n2)
         return n1 + n2*3
     }
     fun subtract(n1: Int, n2: Int): Int {
