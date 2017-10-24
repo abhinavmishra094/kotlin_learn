@@ -1,4 +1,4 @@
-import com.example.cars.*;
+import com.example.cars.MyCar
 
 
 fun main(args: Array<String>) {
